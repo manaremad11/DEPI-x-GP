@@ -1,0 +1,7 @@
+nltk
+scikit-learn
+textblob 
+numpy 
+transformers 
+sentence_transformers  
+streamlit
